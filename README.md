@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Guadalupe Cañas-Herrera
 
-🎓 *Research Fellow in Weak Lensing Cosmology at Royal Observatory Edinburgh*  
+🎓 *Research Fellow in Weak Lensing Cosmology at Royal Observatory Edinburgh & Veni scientist at Leiden Observatory*  
 🔭 Euclid Consortim Data Release 1 Coordinator for Extension Models  
 
 ### 🌌 Currently Focusing on...
