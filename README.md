@@ -8,9 +8,3 @@
 - Advancing **machine-learning cosmological model selection** and interpretability with **[SkyExplain](https://github.com/SkyExplain)**.  
 - Developing **[euclidlib](https://github.com/euclidlib/euclidlib)** — a lightweight Python interface to access and manipulate **cosmology-ready *Euclid* data products**.  
 ---
-### 📘 **Learning Resources**
-- *Statistics for Cosmology* → [Stats4Cosmology](https://github.com/gcanasherrera/Stats4Cosmology) (including tutorials for popular CosmoTools such as Cobaya)
----
-### 🎶 **Side Projects & Creative Experiments**
-- Investigating the synergy between **music and coding productivity** through **[CodeBeats](https://github.com/gcanasherrera/codebeats)**.  
----
