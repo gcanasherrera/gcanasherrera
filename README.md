@@ -4,7 +4,7 @@
 - *Euclid Consortium — Data Release 1 Coordinator for Cosmological Model Extensions*  
 ---
 ### 🚀 **At Work: busy studying the universe through data & theory**
-- Building **[cloe-org](https://github.com/cloe-org)** — a **differentiable cosmology inference framework** for theoretical predictions and likelihood estimation.  
-- Advancing **machine-learning cosmological model selection** and interpretability with **[SkyExplain](https://github.com/SkyExplain)**.  
-- Developing **[euclidlib](https://github.com/euclidlib/euclidlib)** — a lightweight Python interface to access and manipulate **cosmology-ready *Euclid* data products**.  
+- **[cloe-org](https://github.com/cloe-org)**: A differentiable cosmology inference framework for theoretical predictions and likelihood estimation.  
+- **[SkyExplain](https://github.com/SkyExplain)**: Advancing machine-learning cosmological model selection and interpretability with   
+- **[euclidlib](https://github.com/euclidlib/euclidlib)**: A lightweight Python interface to access and manipulate cosmology-ready *Euclid* data products.  
 ---
